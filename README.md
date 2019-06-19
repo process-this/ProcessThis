@@ -16,4 +16,4 @@ look at.
 ## Links
 * [The Wireframes](docs/Wireframes.md)
 * [User Stories](docs/UserStories.md)
-* [Team Ground Rules](docs/Wireframes.md)
+* [Team Ground Rules](docs/GroundRules.md)
