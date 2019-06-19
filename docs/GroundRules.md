@@ -18,12 +18,13 @@ Everyone pulls their weight
 Slack/ Texting: Make a habit of checking slack first for communication and if no one has responded send a group message. 
 * Phone numbers
 > * JD: 909 709 3030
-> * Jeff: 
+> * Jeff: 505-220-9478
 > * Matt: 505 515 6252
 > * Asher: 505 967 8737
 
 Time 
 > * Generally don’t expect responses in the middle of the night 
+> * Please respond within 24 hours to messages even if just a "working on it".
 
 
 Follow scrum and project owner. 
