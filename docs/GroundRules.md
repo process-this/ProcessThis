@@ -19,7 +19,7 @@ Slack/ Texting: Make a habit of checking slack first for communication and if no
 * Phone numbers
 > * JD: 909 709 3030
 > * Jeff: 
-> * Matt: 
+> * Matt: 505 515 6252
 > * Asher: 505 967 8737
 
 Time 
