@@ -1,8 +1,9 @@
 # ProcessThis
 
 ## A brief description
-  ProcessThis is a mobile platform focused specifically on allowing users to write and share 
-  Processing code with other users in an instagram-like fashion. 
+* A social networking platform for coders, artists, designers, students, and educators.
+* Create your own processing sketches and share them privately or publicly.
+* Educational opportunity for beginners to explore basic coding concepts, elements, and such.
   
 ## Who are the users?
 * The users are programmers who spend a lot of time inside looking at code and would like to 
