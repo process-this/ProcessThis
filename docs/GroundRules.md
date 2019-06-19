@@ -1,4 +1,4 @@
-#Ground Rules
+## Ground Rules
 
 
 Meet at least once a week outside of regular class hours. 
