@@ -24,6 +24,7 @@ Slack/ Texting: Make a habit of checking slack first for communication and if no
 
 Time 
 > * Generally don’t expect responses in the middle of the night 
+> * Please respond within 24 hours to messages even if just a "working on it".
 
 
 Follow scrum and project owner. 
