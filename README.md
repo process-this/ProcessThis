@@ -17,3 +17,4 @@ look at.
 * [The Wireframes](docs/Wireframes.md)
 * [User Stories](docs/UserStories.md)
 * [Team Ground Rules](docs/GroundRules.md)
+* [Entity Diagrams](docs/erd.md)
