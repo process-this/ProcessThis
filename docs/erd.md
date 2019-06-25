@@ -4,7 +4,7 @@ I do believe these may need to be expanded upon and changed as we work more and 
 
 ### Server side 
 
-![](processthis_server_erd.png)
+![](updated_erd_server.png)
 
 ### Client side 
 ![](Processthis_client_erd.png)
