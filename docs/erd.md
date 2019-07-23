@@ -7,4 +7,4 @@ I do believe these may need to be expanded upon and changed as we work more and 
 ![](process_this_server_erd.png)
 
 ### Client side 
-![](Processthis_client_erd.png)
+![](process_this_client_erd.png)
