@@ -18,3 +18,4 @@ look at.
 * [User Stories](docs/UserStories.md)
 * [Team Ground Rules](docs/GroundRules.md)
 * [Entity Diagrams](docs/erd.md)
+* [License](NOTICE.md)
