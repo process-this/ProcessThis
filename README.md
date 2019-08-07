@@ -20,4 +20,4 @@ look at.
 * [Entity Diagrams](docs/erd.md)
 * [License](docs/license.md)
 * [Client JavaDocs](docs/api/overview-summary.html)
-* [Server JavaDocs](process-this-spring/target/apidocs/index.html)
+* [Server JavaDocs](process-this-spring/target/apidocs/)
