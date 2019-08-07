@@ -19,3 +19,5 @@ look at.
 * [Team Ground Rules](docs/GroundRules.md)
 * [Entity Diagrams](docs/erd.md)
 * [License](docs/license.md)
+* [Client JavaDocs](docs/api/overview-summary.html)
+* [Server JavaDocs](process-this-spring/target/apidocs/)
