@@ -1,1 +1,1 @@
-![Wireframes](wireframe2.png)
+![Wireframes](docs/wireframe2.png)
